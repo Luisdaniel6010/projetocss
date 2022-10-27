@@ -1,0 +1,31 @@
+body > * {
+    padding: 20px;
+}
+
+.lis1 {
+    background-color: darkgray;
+}
+
+.headerimg{
+    background-color: cornflowerblue;
+}
+
+.msobre {
+    background-color: darkgray;
+}
+
+.mformacao {
+    background-color: cornflowerblue;
+}
+
+.mexperiencia {
+    background-color: darkgray;
+}
+
+.mprojetos {
+    background-color: cornflowerblue;
+}
+
+.fcontactos {
+    background-color: darkgray;
+}
